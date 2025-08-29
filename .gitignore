@@ -1,0 +1,17 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# macOS/Windows
+.DS_Store
+.idea/
+.vscode/
+*.iml
